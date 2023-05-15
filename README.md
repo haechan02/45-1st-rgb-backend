@@ -34,6 +34,10 @@ JavaScript / NodeJS / Mysql
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF4500?style=for-the-badge&logo=postman&logoColor=white">
 
+---------------------------------------
+내가 참여한 API
 
+orderAPI - 주문에 관련된 결제창과 결체했을때 장바구니를 비우고, 사용자의 포인트 차감 및 업데이트
+productAPI - 제품에 관련된 상품정보를 불러오고, 전체 제품에 대해 category id를 사용하여 상품을 전체불러오기 또는 개별 불러오기 가능
 
-
+![Screen-Recording-2023-05-12-at-3 33 03-PM](https://github.com/haechan02/45-1st-rgb-backend/assets/120645757/c7d853e3-d5c8-4075-8739-6c4b49eee563)
