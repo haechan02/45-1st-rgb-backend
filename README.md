@@ -13,7 +13,9 @@ member
 프로젝트 기간 2주 ( 2023.04.30 ~ 2023.0514 )
 
 개발인원 
-front-end : 이수빈 , 이경진 , 김수정 , 문유현 , 이원준 //프론트엔드 링크 달아주세요~
+front-end : 이수빈 , 이경진 , 김수정 , 문유현 , 이원준 
+https://github.com/wecode-bootcamp-korea/45-1st-rgb-frontend/blob/master/README.md
+
 back-end : 윤해찬 , 탁호진 
 
 ------------------------------------
