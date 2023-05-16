@@ -101,7 +101,12 @@ JavaScript / NodeJS / Mysql
 내가 참여한 API
 
 orderAPI - 주문에 관련된 결제창과 결체했을때 장바구니를 비우고, 사용자의 포인트 차감 및 업데이트
-productAPI - 제품에 관련된 상품정보를 불러오고, 전체 제품에 대해 category id를 사용하여 상품을 전체불러오기 또는 개별 불러오기 가능
+
+transaction 도입으로 결제 완료전까지 문제 발생시 결제 미완료. 결제 완료시 UUID로 주문번호 확인가능 및 getOrder 로 주문번호로 데이터 확인가능
+
+productAPI - 제품에 관련된 상품정보를 불러오고, 전체 제품에 대해 category id를 사용하여 상품을 전체불러오기 또는 개별 불러오기 
+
+product 개별 또는 전체 불러오기 둘다 query 로 불러오기 가능. 
 
 ![Screen-Recording-2023-05-12-at-3 33 03-PM](https://github.com/haechan02/45-1st-rgb-backend/assets/120645757/c7d853e3-d5c8-4075-8739-6c4b49eee563)
 
